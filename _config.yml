@@ -10,7 +10,6 @@ title: Orthodox Brotherhood of St. Eustace
 email: orthodoxbrotherhood-steustace@protonmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Founded in 2020 as a fellowship of men of Holly Archangels church of the Diocese of San Francisco and Western America of the Russian Orthodox Church Outside Russia (ROCOR).
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://orthodoxbrotherhood-steustace.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
